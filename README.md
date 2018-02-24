@@ -1,4 +1,4 @@
-Sample Project
+ML_fundamentals Project
 ----------------
 
-This is a sample project to demonstrate git.  All files except this one are blank.
+Exploring the machine learning workflow to predict a car's market price using its attributes with the help of k-nearest neighbors algorithm. The dataset is downloaded from "https://archive.ics.uci.edu/ml/datasets/automobile".
